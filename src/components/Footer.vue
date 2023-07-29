@@ -137,7 +137,7 @@
             <a
               href="https://www.creative-tim.com"
               class="text-gray-600 hover:text-gray-900"
-              >Creative Tim</a
+              ></a
             >.
           </div>
         </div>
