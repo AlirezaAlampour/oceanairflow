@@ -24,7 +24,7 @@
         <div class="w-full lg:w-6/12 px-4">
           <h4 class="text-3xl font-semibold">Let's keep in touch!</h4>
           <h5 class="text-lg mt-0 mb-2 text-gray-700">
-            Find us on any of these platforms, we respond 1-2 business days.
+            Find us on any of these platforms
           </h5>
           <div class="mt-6">
             <button
@@ -133,7 +133,7 @@
       >
         <div class="w-full md:w-4/12 px-4 mx-auto text-center">
           <div class="text-sm text-gray-600 font-semibold py-1">
-            Copyright © {{date}} Tailwind Starter Kit by
+            Copyright © {{date}} Oceanairflow by Alireza
             <a
               href="https://www.creative-tim.com"
               class="text-gray-600 hover:text-gray-900"
