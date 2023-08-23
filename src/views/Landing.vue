@@ -1,6 +1,6 @@
 <template>
   <div>
-    <navbar-component></navbar-component>
+    <navbar-component class="  flex content-center items-center justify-center"></navbar-component>
     <main>
       <div
         class="relative pt-16 pb-32 flex content-center items-center justify-center"
